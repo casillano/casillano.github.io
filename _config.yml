@@ -14,9 +14,9 @@ json:
     - I like to build stuff.
     - Check out some of my projects below.
     - Feel free to reach out to me!
-  cv: assets/cv.pdf
+  resume: assets/resume.pdf
   address:
-    - Toronto, Canada
+    - Somewhere in Toronto, Canada
 #   - Department of Themes
 #   - 123 Main St, Anytown, USA
   contact:

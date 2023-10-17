@@ -25,7 +25,7 @@ layout: default
     {% endif %}
   </div>
   <div class="block">
-    {% if site.json.cv %}
+    {% if site.json.resume %}
     {% assign cv = site.json.cv | split: "/" | slice: -1 %}
     <p><span class="key">cv</span><span class="attr"><a href="{{ site.json.cv }}" target="_blank">{{ cv }}</a></span></p>
     {% endif %}
